@@ -1,0 +1,11 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "testing different approaches for a chat app",
+  "main": "index.js",
+  "repository": "https://github.com/cfarfan/chat-app",
+  "author": "Camilo Farfán <camilo.farfanp@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["chat-web", "chat-service", "chat-shared"]
+}
